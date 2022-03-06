@@ -1,0 +1,19 @@
+#container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cell {
+    width: 100PX;
+    height: 100PX;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+#output {
+    text-align: center;
+}
